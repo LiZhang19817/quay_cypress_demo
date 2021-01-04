@@ -10,7 +10,8 @@ Reference: [Cypress Docs](https://docs.cypress.io/guides/overview/why-cypress.ht
 - CYPRESS_QUAY_IMAGE_REPOSITORY
 - CYPRESS_QUAY_ORG_NAME
 
+## Execution:
 > npx cypress run
 
-## Execution:
+## How to check testing report:
 > checking testing_report file
