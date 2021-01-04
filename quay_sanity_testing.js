@@ -5,7 +5,7 @@
 //export CYPRESS_QUAY_PASSWORD=password
 //export CYPRESS_QUAY_IMAGE_REPOSITORY=quaydemo
 
-describe('Quay Automation Testing Case Number 001', function(){
+describe('Quay Automation Sanity Testing Case', function(){
     beforeEach('Docker login Quay',function(){
      
         cy.exec('docker login '+Cypress.env('QUAY_ENDPOINT')+' -u'+Cypress.env('QUAY_USER')+ ' -p' + Cypress.env('QUAY_PASSWORD'));
