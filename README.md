@@ -12,6 +12,7 @@ Reference: [Cypress Docs](https://docs.cypress.io/guides/overview/why-cypress.ht
 
 ## Execution:
 > npx cypress run
+> npx cypress run --browser chrome --headless
 
 ## How to check testing report:
 > checking testing_report file
