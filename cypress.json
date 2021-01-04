@@ -1,0 +1,11 @@
+{
+    "projectId": "quay automation demo with cypress",
+    "watchForFileChanges": false,
+    "env": {
+      "QUAY_ENDPOINT": "quayregistry-quay-quay-enterprise.apps.quay-perf-467.perfscale.devcluster.openshift.com",
+      "QUAY_USER": "quay",
+      "QUAY_PASSWORD": "password",
+      "QUAY_IMAGE_REPOSITORY": "quaydemo12",
+      "QUAY_ORG_NAME": "quayqe6"
+    }
+}
