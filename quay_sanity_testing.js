@@ -4,6 +4,7 @@
 //export CYPRESS_QUAY_USER=quay
 //export CYPRESS_QUAY_PASSWORD=password
 //export CYPRESS_QUAY_IMAGE_REPOSITORY=quaydemo
+//export CYPRESS_QUAY_ORG_NAME=quaydemo
 
 describe('Quay Automation Sanity Testing Case', function(){
     beforeEach('Docker login Quay',function(){
