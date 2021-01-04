@@ -1,4 +1,4 @@
-# cypress_demo
+# quay_cypress_demo
 
 Reference: [Cypress Docs](https://docs.cypress.io/guides/overview/why-cypress.html)
 
